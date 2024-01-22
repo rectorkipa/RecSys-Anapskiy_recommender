@@ -1,4 +1,4 @@
-# RecSys pet-project: Anapskiy_recommender
+# Anapskiy recommender
 
 ### Service run:
 ~~~
